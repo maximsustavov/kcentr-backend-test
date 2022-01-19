@@ -15,6 +15,6 @@ use App\Http\Controllers\Api\CounterController;
 */
 
 Route::prefix('counter')->group(function () {
-    Route::delete('deleteAll', [CounterController::class,'destroyAll']);
+    Route::delete('', [CounterController::class,'destroyAll']);
     Route::apiResource('', CounterController::class)->only(['index', 'store']);
 });
