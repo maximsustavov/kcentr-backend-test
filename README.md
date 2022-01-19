@@ -5,7 +5,7 @@
 <p>git clone <a href="https://github.com/maximsustavov/kcentr-backend-test.git">https://github.com/maximsustavov/kcentr-backend-test.git</a></p>
 </li>
 <li>
-<p>cd kcentr-backend-test.git</p>
+<p>cd kcentr-backend-test</p>
 </li>
 <li>
 <p>composer install</p>
