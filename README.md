@@ -16,6 +16,9 @@
 <li>
 <p>php artisan migrate:fresh</p>
 </li>
+<li>
+<p>php artisan serv</p>
+</li>
 </ol>
 <h1>Использование</h1>
 
